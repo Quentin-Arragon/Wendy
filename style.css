@@ -1,0 +1,43 @@
+/* * {
+  outline: 1px solid rgba(255, 0, 0, 0.3);
+}
+*:nth-child(odd) {
+  outline-color: rgba(0, 0, 255, 0.3);
+} */
+
+h1 {
+    color: rgb(231, 165, 12);
+    margin: 24px;
+    font-family: "Irish Grover", system-ui;
+    font-size: 80px;
+    text-align: center;
+    transform: rotate(-4deg);
+}
+
+h2 {
+    margin: 24px;
+    font-family: "Irish Grover", system-ui;
+    font-size: 24px;
+    text-align: left;
+    letter-spacing: 2px;
+    transform: rotate(-1deg);
+}
+
+hr {
+    visibility: hidden;
+  width: 60%;
+  margin: 40px auto;
+  background-color: #254a56;
+  height: 3px;
+  border: none;
+}
+
+body {
+
+    background-color: #6c9eae;
+    color: rgb(14, 53, 82);
+  font-family: "Fuzzy Bubbles", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
