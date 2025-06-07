@@ -23,6 +23,13 @@ html {
     /* 1rem = 16px */
 }
 
+@media (max-width: 1000px) {
+    html {
+        font-size: 13px;
+        /* 1rem = 13px */
+    }
+}
+
 body {
 
     background-color: white;
