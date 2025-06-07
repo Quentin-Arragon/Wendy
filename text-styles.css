@@ -23,7 +23,7 @@ html {
     /* 1rem = 16px */
 }
 
-@media (max-width: 480) {
+@media (max-width: 480px) {
     html {
         font-size: 13px;
         /* 1rem = 13px */
